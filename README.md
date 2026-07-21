@@ -54,7 +54,6 @@
 - 🏢 Startups - Quick MVP development
 - 📚 Students - Learning UI development
 
----
 
 ## ✨ Features
 
@@ -101,7 +100,6 @@
 - Loading states
 - Toast notifications
 
----
 
 ## 📸 Screenshots
 
@@ -161,11 +159,8 @@
 | Git | Version Control |
 | GitHub | Repository Hosting |
 
----
 
 ## 📁 Project Structure
-
----
 
 ## 🚀 Quick Start
 
