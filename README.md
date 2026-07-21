@@ -10,8 +10,6 @@
 
 ![DesignCraft-AI Banner](https://via.placeholder.com/1200x400/6C63FF/FFFFFF?text=DesignCraft-AI)
 
----
-
 ## 📋 Table of Contents
 - [🌟 Overview](#-overview)
 - [✨ Features](#-features)
@@ -29,7 +27,6 @@
 - [📄 License](#-license)
 - [👥 Authors](#-authors)
 - [🙏 Acknowledgments](#-acknowledgments)
-
 
 
 ## 🌟 Overview
